@@ -1,6 +1,6 @@
 # 👤 Portfolio Website
 
-> ### Checkout Website at https://iampavangandhi.github.io/
+> ### Checkout Website at https://upworkprashantp.github.io/
 > ### Deployed using [Github Pages](https://pages.github.com/)
 
 ## Technologies Used
@@ -13,7 +13,7 @@
 
 ## Contributing
 
-Feel free to dive in! [Open an issue](https://github.com/iampavangandhi/iampavangandhi.github.io/issues/new) or submit PRs
+Feel free to dive in! [Open an issue](https://github.com/upworkprashantp/upworkprashantp.github.io/issues/new) or submit PRs
 
 ## License
 
